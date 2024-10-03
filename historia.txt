@@ -5,5 +5,10 @@ MASTER 1
 MASTER 2
 =======
 EXPERIMENTO 1
+<<<<<<< HEAD
 MASTER 1
 >>>>>>> e4569a4 (Experimento 1)
+=======
+EXPERIMENTO 2
+MASTER 1
+>>>>>>> 4cee8f9 (Experimento 2)
